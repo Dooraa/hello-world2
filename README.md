@@ -1,3 +1,3 @@
 # hello-world2
 Andora
-I come from Kosova. 
+is from Kosova. 
